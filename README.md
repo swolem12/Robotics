@@ -17,6 +17,7 @@ Students assemble virtual Arduino circuits in 3D, connect wires at pin level, an
 	- `/admin/assets`
 - Simulator workspace layout scaffolded (top controls, left checklist, center 3D scene, right inspector, bottom timeline).
 - Starter circuit validation loop preserved for Uno R4 + LED + Servo.
+- Real 3D scene now loads converted CAD models from STEP assets (`UNO R4`, `Breadboard`, `DM542T`).
 
 ## Asset Structure
 - `assets/cad/raw-step/` grouped by category for intake.
@@ -30,6 +31,16 @@ Students assemble virtual Arduino circuits in 3D, connect wires at pin level, an
 1. `cd web`
 2. `npm install`
 3. `npm run dev`
+
+## STEP to 3D Model Workflow
+1. Install conversion tools (Ubuntu):
+	- `sudo apt install -y gmsh assimp-utils`
+2. Convert all STEP assets to GLB:
+	- `./scripts/convert_step_to_glb.sh`
+3. Sync converted models to web runtime directory:
+	- `./scripts/sync_models_to_web.sh`
+
+Runtime model path used by the app: `web/public/models/**`.
 
 ## Publish to GitHub Pages
 - A deployment workflow is configured at `.github/workflows/deploy-gh-pages.yml`.
