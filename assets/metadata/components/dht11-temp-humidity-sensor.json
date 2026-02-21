@@ -1,0 +1,10 @@
+{
+  "componentId": "dht11-temp-humidity-sensor",
+  "displayName": "Dht11 Temp Humidity Sensor",
+  "category": "sensors",
+  "sourceFile": "assets/cad/raw-step/sensors/dht11-temp-humidity-sensor.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

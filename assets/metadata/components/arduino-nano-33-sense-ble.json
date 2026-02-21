@@ -1,0 +1,10 @@
+{
+  "componentId": "arduino-nano-33-sense-ble",
+  "displayName": "Arduino Nano 33 Sense Ble",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/arduino-nano-33-sense-ble.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "componentId": "switch-slide-on-off-on",
+  "displayName": "Switch Slide On Off On",
+  "category": "switching",
+  "sourceFile": "assets/cad/raw-step/switching/switch-slide-on-off-on.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

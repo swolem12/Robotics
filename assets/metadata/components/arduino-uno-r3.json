@@ -1,0 +1,10 @@
+{
+  "componentId": "arduino-uno-r3",
+  "displayName": "Arduino Uno R3",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/arduino-uno-r3.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

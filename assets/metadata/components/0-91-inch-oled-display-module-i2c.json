@@ -1,0 +1,10 @@
+{
+  "componentId": "0-91-inch-oled-display-module-i2c",
+  "displayName": "0 91 Inch Oled Display Module I2C",
+  "category": "displays",
+  "sourceFile": "assets/cad/raw-step/displays/0-91-inch-oled-display-module-i2c.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

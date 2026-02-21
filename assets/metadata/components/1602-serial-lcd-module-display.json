@@ -1,0 +1,10 @@
+{
+  "componentId": "1602-serial-lcd-module-display",
+  "displayName": "1602 Serial Lcd Module Display",
+  "category": "displays",
+  "sourceFile": "assets/cad/raw-step/displays/1602-serial-lcd-module-display.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

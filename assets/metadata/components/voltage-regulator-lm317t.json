@@ -1,0 +1,10 @@
+{
+  "componentId": "voltage-regulator-lm317t",
+  "displayName": "Voltage Regulator Lm317T",
+  "category": "power",
+  "sourceFile": "assets/cad/raw-step/power/voltage-regulator-lm317t.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

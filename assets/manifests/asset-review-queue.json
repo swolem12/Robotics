@@ -1,0 +1,14 @@
+[
+  {
+    "componentKey": "arduino-nano-flashtree-shield",
+    "path": "assets/cad/raw-step/boards/shield-for-arduino-nano-flashtree-v2.step",
+    "status": "needs-geometry-review",
+    "reason": "potential duplicate from source naming variants"
+  },
+  {
+    "componentKey": "arduino-nano-flashtree-shield",
+    "path": "assets/cad/raw-step/boards/shield-for-arduino-nano-flashtree.step",
+    "status": "needs-geometry-review",
+    "reason": "potential duplicate from source naming variants"
+  }
+]

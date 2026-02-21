@@ -1,0 +1,10 @@
+{
+  "componentId": "8-pin-tiny85-unit",
+  "displayName": "8 Pin Tiny85 Unit",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/8-pin-tiny85-unit.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "componentId": "relay-module-5v",
+  "displayName": "Relay Module 5V",
+  "category": "switching",
+  "sourceFile": "assets/cad/raw-step/switching/relay-module-5v.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

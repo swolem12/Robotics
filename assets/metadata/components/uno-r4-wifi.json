@@ -1,0 +1,10 @@
+{
+  "componentId": "uno-r4-wifi",
+  "displayName": "Uno R4 Wifi",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/uno-r4-wifi.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "componentId": "arduino-nano-33-iot",
+  "displayName": "Arduino Nano 33 Iot",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/arduino-nano-33-iot.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

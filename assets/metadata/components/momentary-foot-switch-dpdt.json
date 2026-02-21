@@ -1,0 +1,10 @@
+{
+  "componentId": "momentary-foot-switch-dpdt",
+  "displayName": "Momentary Foot Switch Dpdt",
+  "category": "switching",
+  "sourceFile": "assets/cad/raw-step/switching/momentary-foot-switch-dpdt.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "componentId": "arduino-mkr-wifi-1010-abx00023",
+  "displayName": "Arduino Mkr Wifi 1010 Abx00023",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/arduino-mkr-wifi-1010-abx00023.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

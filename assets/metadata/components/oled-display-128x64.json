@@ -1,0 +1,10 @@
+{
+  "componentId": "oled-display-128x64",
+  "displayName": "Oled Display 128X64",
+  "category": "displays",
+  "sourceFile": "assets/cad/raw-step/displays/oled-display-128x64.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

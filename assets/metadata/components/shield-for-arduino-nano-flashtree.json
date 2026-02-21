@@ -1,0 +1,10 @@
+{
+  "componentId": "shield-for-arduino-nano-flashtree",
+  "displayName": "Shield For Arduino Nano Flashtree",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/shield-for-arduino-nano-flashtree.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

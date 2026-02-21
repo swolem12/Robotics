@@ -1,0 +1,10 @@
+{
+  "componentId": "transistor-s8550-pnp",
+  "displayName": "Transistor S8550 Pnp",
+  "category": "semiconductors",
+  "sourceFile": "assets/cad/raw-step/semiconductors/transistor-s8550-pnp.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

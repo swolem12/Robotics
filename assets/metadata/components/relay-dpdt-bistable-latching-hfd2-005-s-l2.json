@@ -1,0 +1,10 @@
+{
+  "componentId": "relay-dpdt-bistable-latching-hfd2-005-s-l2",
+  "displayName": "Relay Dpdt Bistable Latching Hfd2 005 S L2",
+  "category": "switching",
+  "sourceFile": "assets/cad/raw-step/switching/relay-dpdt-bistable-latching-hfd2-005-s-l2.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

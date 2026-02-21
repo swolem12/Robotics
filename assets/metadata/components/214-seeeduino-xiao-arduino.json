@@ -1,0 +1,10 @@
+{
+  "componentId": "214-seeeduino-xiao-arduino",
+  "displayName": "214 Seeeduino Xiao Arduino",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/214-seeeduino-xiao-arduino.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

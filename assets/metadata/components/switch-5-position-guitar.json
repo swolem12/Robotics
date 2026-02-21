@@ -1,0 +1,10 @@
+{
+  "componentId": "switch-5-position-guitar",
+  "displayName": "Switch 5 Position Guitar",
+  "category": "switching",
+  "sourceFile": "assets/cad/raw-step/switching/switch-5-position-guitar.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

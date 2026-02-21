@@ -1,0 +1,10 @@
+{
+  "componentId": "transistor-s8050-npn",
+  "displayName": "Transistor S8050 Npn",
+  "category": "semiconductors",
+  "sourceFile": "assets/cad/raw-step/semiconductors/transistor-s8050-npn.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

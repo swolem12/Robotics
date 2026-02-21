@@ -1,0 +1,10 @@
+{
+  "componentId": "breadboard",
+  "displayName": "Breadboard",
+  "category": "prototyping",
+  "sourceFile": "assets/cad/raw-step/prototyping/breadboard.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

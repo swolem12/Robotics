@@ -1,0 +1,10 @@
+{
+  "componentId": "36vdc-power-supply",
+  "displayName": "36Vdc Power Supply",
+  "category": "power",
+  "sourceFile": "assets/cad/raw-step/power/36vdc-power-supply.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

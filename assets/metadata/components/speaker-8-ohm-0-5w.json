@@ -1,0 +1,10 @@
+{
+  "componentId": "speaker-8-ohm-0-5w",
+  "displayName": "Speaker 8 Ohm 0 5W",
+  "category": "electromechanical",
+  "sourceFile": "assets/cad/raw-step/electromechanical/speaker-8-ohm-0-5w.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

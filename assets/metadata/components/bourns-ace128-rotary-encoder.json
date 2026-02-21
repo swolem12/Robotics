@@ -1,0 +1,10 @@
+{
+  "componentId": "bourns-ace128-rotary-encoder",
+  "displayName": "Bourns Ace128 Rotary Encoder",
+  "category": "electromechanical",
+  "sourceFile": "assets/cad/raw-step/electromechanical/bourns-ace128-rotary-encoder.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

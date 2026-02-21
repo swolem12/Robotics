@@ -1,0 +1,10 @@
+{
+  "componentId": "socket-transistor",
+  "displayName": "Socket Transistor",
+  "category": "semiconductors",
+  "sourceFile": "assets/cad/raw-step/semiconductors/socket-transistor.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

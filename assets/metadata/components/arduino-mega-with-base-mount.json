@@ -1,0 +1,10 @@
+{
+  "componentId": "arduino-mega-with-base-mount",
+  "displayName": "Arduino Mega With Base Mount",
+  "category": "boards",
+  "sourceFile": "assets/cad/raw-step/boards/arduino-mega-with-base-mount.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "componentId": "sn74hc14n-inverting-schmitt-trigger",
+  "displayName": "Sn74Hc14N Inverting Schmitt Trigger",
+  "category": "semiconductors",
+  "sourceFile": "assets/cad/raw-step/semiconductors/sn74hc14n-inverting-schmitt-trigger.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

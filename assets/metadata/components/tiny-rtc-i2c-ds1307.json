@@ -1,0 +1,10 @@
+{
+  "componentId": "tiny-rtc-i2c-ds1307",
+  "displayName": "Tiny Rtc I2C Ds1307",
+  "category": "sensors",
+  "sourceFile": "assets/cad/raw-step/sensors/tiny-rtc-i2c-ds1307.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

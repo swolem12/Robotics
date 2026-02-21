@@ -1,0 +1,10 @@
+{
+  "componentId": "dip-ic-socket-14-pins",
+  "displayName": "Dip Ic Socket 14 Pins",
+  "category": "prototyping",
+  "sourceFile": "assets/cad/raw-step/prototyping/dip-ic-socket-14-pins.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

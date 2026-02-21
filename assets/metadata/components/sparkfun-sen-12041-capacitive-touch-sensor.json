@@ -1,0 +1,10 @@
+{
+  "componentId": "sparkfun-sen-12041-capacitive-touch-sensor",
+  "displayName": "Sparkfun Sen 12041 Capacitive Touch Sensor",
+  "category": "sensors",
+  "sourceFile": "assets/cad/raw-step/sensors/sparkfun-sen-12041-capacitive-touch-sensor.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

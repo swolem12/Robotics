@@ -1,0 +1,10 @@
+{
+  "componentId": "isd1820-voice-recorder",
+  "displayName": "Isd1820 Voice Recorder",
+  "category": "electromechanical",
+  "sourceFile": "assets/cad/raw-step/electromechanical/isd1820-voice-recorder.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

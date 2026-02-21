@@ -1,0 +1,10 @@
+{
+  "componentId": "trimmer-resistor-100k-ohm",
+  "displayName": "Trimmer Resistor 100K Ohm",
+  "category": "prototyping",
+  "sourceFile": "assets/cad/raw-step/prototyping/trimmer-resistor-100k-ohm.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

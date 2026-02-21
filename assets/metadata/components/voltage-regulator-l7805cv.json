@@ -1,0 +1,10 @@
+{
+  "componentId": "voltage-regulator-l7805cv",
+  "displayName": "Voltage Regulator L7805Cv",
+  "category": "power",
+  "sourceFile": "assets/cad/raw-step/power/voltage-regulator-l7805cv.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}

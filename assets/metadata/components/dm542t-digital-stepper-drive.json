@@ -1,0 +1,10 @@
+{
+  "componentId": "dm542t-digital-stepper-drive",
+  "displayName": "Dm542T Digital Stepper Drive",
+  "category": "electromechanical",
+  "sourceFile": "assets/cad/raw-step/electromechanical/dm542t-digital-stepper-drive.step",
+  "units": "unknown",
+  "pins": [],
+  "anchors": [],
+  "tags": []
+}
